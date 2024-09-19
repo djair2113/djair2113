@@ -1,5 +1,3 @@
-# Olá, eu sou Djair! 👋
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -16,10 +14,12 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
+            text-align: center;
         }
         .text {
             font-size: 24px;
             color: #333;
+            white-space: pre-wrap; /* Preserve quebras de linha */
         }
     </style>
 </head>
@@ -28,7 +28,9 @@
 <div class="text" id="dynamicText"></div>
 
 <script>
-    const text = `Olá, eu sou Djair! 👋\n\nSou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.`;
+    const text = `Olá, eu sou Djair! 👋
+
+Sou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.`;
     
     let index = 0;
 
@@ -36,10 +38,7 @@
         if (index < text.length) {
             document.getElementById("dynamicText").innerHTML += text.charAt(index);
             index++;
-            setTimeout(type, 50); // ajusta a velocidade de digitação
-        } else {
-            // Adiciona uma nova linha após a conclusão
-            document.getElementById("dynamicText").innerHTML += "<br><br>";
+            setTimeout(type, 50); // Ajusta a velocidade de digitação
         }
     }
 
