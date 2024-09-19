@@ -1,4 +1,9 @@
-Olá, sou Djair, tenho 36 anos e sou do Brasil.
+# Olá, sou Djair! 👋
+
+<div align="center">
+  🌍 **Localização:** **Brasil**  
+  🎂 **Idade:** **36 anos**  
+</div>
 
 Sou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.
 ## Sobre Mim
