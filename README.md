@@ -1,8 +1,7 @@
 # 💫 About Me:
-Olá, sou Djair! 👋<br>🌍 Localização: Brasil<br>🎂 Idade: 36 anos<br><br>🔹 Estudante de Engenharia de Dados<br>🔹 Apaixonado por dados e tecnologia<br>🔹 Conhecimento em diversas ferramentas e linguagens<br>🔹 Buscando constantemente expandir habilidades<br>🔹 Atualizado nas últimas tendências do setor<br>🔹 Comprometido em transformar dados em insights valiosos para a tomada de decisões<br><br>Sobre Mim<br>🔭 Atualmente, trabalho com Big Data e uso ferramentas 🛠️ e Linguagem:<br> ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+Olá, sou Djair! 👋<br>🌍 Localização: Brasil<br>🎂 Idade: 36 anos<br><br>🔹 Estudante de Engenharia de Dados<br>🔹 Apaixonado por dados e tecnologia<br>🔹 Conhecimento em diversas ferramentas e linguagens<br>🔹 Buscando constantemente expandir habilidades<br>🔹 Atualizado nas últimas tendências do setor<br>🔹 Comprometido em transformar dados em insights valiosos para a tomada de decisões<br><br>Skills<br>🔭![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/Excel-4B8BF4?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-E03C31?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
