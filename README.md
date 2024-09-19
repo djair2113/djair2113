@@ -1,7 +1,5 @@
 # Olá, sou Djair! 👋
 
-![Typing...](https://www.canva.com/design/DAGRNp1hDRM/PmDpzRIkxPiHytEzfZBDwA/watch?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-
 🌍 **Localização:** Brasil  
 🎂 **Idade:** 36 anos  
 
@@ -11,8 +9,6 @@
 🔹 **Buscando constantemente expandir habilidades**  
 🔹 **Atualizado nas últimas tendências do setor**  
 🔹 **Comprometido em transformar dados em insights valiosos para a tomada de decisões**  
-
-[Veja o meu GIF de apresentação aqui!](https://www.canva.com/design/DAGRNp1hDRM/PmDpzRIkxPiHytEzfZBDwA/watch?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Sobre Mim
 
