@@ -1,9 +1,9 @@
 # Olá, sou Djair! 👋
 
-🌍 **Localização:** **Brasil**  
-🎂 **Idade:** **36 anos**  
+![Typing...](https://www.canva.com/design/DAGRNp1hDRM/YbieoW7O8ebTWS35qmvjZA/edit?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-*Digitação Simulada...*
+🌍 **Localização:** Brasil  
+🎂 **Idade:** 36 anos  
 
 🔹 **Estudante de Engenharia de Dados**  
 🔹 **Apaixonado por dados e tecnologia**  
@@ -11,6 +11,7 @@
 🔹 **Buscando constantemente expandir habilidades**  
 🔹 **Atualizado nas últimas tendências do setor**  
 🔹 **Comprometido em transformar dados em insights valiosos para a tomada de decisões**
+
 
 ## Sobre Mim
 
@@ -52,7 +53,6 @@
 - ⚡ Sou fã⚡
 
 [![Anime Badge](https://img.shields.io/badge/Fan%20of%20Animes-%23EBCB8B.svg?style=flat-square)](https://www.crunchyroll.com/pt-br/?srsltid=AfmBOord08uOaGlP0uAGpsWhDgbxBs--pmedkHPrAR3V9IsZL9M2uQrC) 
-
 
 
 ---
