@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Djair! 👋<br>🌍 Location: Brazil<br>🎂 Age: 36 years old<br><br>🔹 Estudante de Engenharia de Dados<br>🔹 Apaixonado por dados e tecnologia<br>🔹 Conhecimento em diversas ferramentas e linguagens<br>🔹 Buscando constantemente expandir habilidades<br>🔹 Atualizado nas últimas tendências do setor<br>🔹 Comprometido em transformar dados em insights valiosos para a tomada de decisões<br> 
+Hello, I'm Djair! 👋<br>🌍 Location: Brazil<br>🎂 Age: 36 years old<br><br>🔹 Data Engineering Student<br>🔹Passionate about data and technology<br>🔹 Knowledge in various tools and languages.<br>🔹 Constantly seeking to expand skills<br>🔹 Updated on the latest industry trends<br>🔹Committed to transforming data into valuable insights for decision-making<br> 
 
 # 💻 Skills:
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
