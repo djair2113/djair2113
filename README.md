@@ -36,7 +36,7 @@ Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiênc
 
 ## Fato Divertido
 
-- ⚡ Sou fã de ## Fato Divertido ⚡
+- ⚡ Sou fã de⚡
 
 [![Anime Badge](https://img.shields.io/badge/Fan%20of%20Animes-%23EBCB8B.svg?style=flat-square)](https://example.com) 
 
