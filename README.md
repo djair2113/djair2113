@@ -54,14 +54,14 @@
 
 ---
 
-<div align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px;">
+[<div align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px;">
   <br>
   <p align="center" style="color: #2196F3;"><b>Visitors Count</b></p>  
   <p align="center">
     <img align="center" src="https://img.shields.io/badge/Visitors%20Count-djair2113-blue?style=flat-square" />
   </p> 
   <br>
-</div>
+</div>](https://profile-counter.glitch.me/djair2113/count.svg)
 
 
 
