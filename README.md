@@ -1,6 +1,54 @@
 # Olá, eu sou Djair! 👋
 
-Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiência em várias ferramentas e linguagens, estou sempre em busca de aprender e evoluir na área de tecnologia.
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação Dinâmica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .text {
+            font-size: 24px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="text" id="dynamicText"></div>
+
+<script>
+    const text = `Olá, eu sou Djair! 👋\n\nSou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.`;
+    
+    let index = 0;
+
+    function type() {
+        if (index < text.length) {
+            document.getElementById("dynamicText").innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, 50); // ajusta a velocidade de digitação
+        } else {
+            // Adiciona uma nova linha após a conclusão
+            document.getElementById("dynamicText").innerHTML += "<br><br>";
+        }
+    }
+
+    type();
+</script>
+
+</body>
+</html>
+
 
 ## Sobre Mim
 
@@ -24,6 +72,10 @@ Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiênc
 ![Banco de Dados Badge](https://img.shields.io/badge/Database-%23000000.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23357BA0.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+
+
 
 
 ## Conecte-se comigo
