@@ -1,6 +1,6 @@
 # Olá, sou Djair! 👋
 
-![Typing...](https://www.canva.com/design/DAGRNp1hDRM/YbieoW7O8ebTWS35qmvjZA/edit?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+![Typing...]([https://www.canva.com/design/DAGRNp1hDRM/YbieoW7O8ebTWS35qmvjZA/edit?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGRNp1hDRM/PmDpzRIkxPiHytEzfZBDwA/watch?utm_content=DAGRNp1hDRM&utm_campaign=designshare&utm_medium=link&utm_source=editor))  
 
 🌍 **Localização:** Brasil  
 🎂 **Idade:** 36 anos  
