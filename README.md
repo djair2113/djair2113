@@ -13,7 +13,8 @@ Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiênc
 [![Python Badge](https://img.shields.io/badge/Python-%233572A5.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
   
-- 🌱 Estou estudando **Cloud Computing**, especialmente **AWS**, para expandir minhas habilidades em infraestrutura e serviços em nuvem.
+- 🌱 Estou estudando **Cloud Computing**, especialmente **[![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+**, para expandir minhas habilidades em infraestrutura e serviços em nuvem.
 
 - 👩‍💻 Também sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo:
  ![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -27,11 +28,9 @@ Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiênc
 
 ## Conecte-se comigo
 
-## Como Chegar até Mim 📫
-
 [![Email Badge](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:djair2113@hotmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](seu-link-linkedin)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](seu-link-github)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/djair2113)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/djair2113)
 
 
 ## Fato Divertido
