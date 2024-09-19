@@ -54,11 +54,13 @@
 
 ---
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{djair2113}/count.svg" /></p> 
+<div align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px;">
+  <br>
+  <p align="center" style="color: #2196F3;"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{djair2113}/count.svg" /></p> 
   <br>
 </div>
+
 
 <!--
 **djair2113/djair2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
