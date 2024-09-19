@@ -1,4 +1,4 @@
-[![Header Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)](https://www.pexels.com/pt-br/foto/oculos-black-farmed-em-frente-ao-computador-laptop-577585/)
+<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Header Image" width="600"/>
 
 # 💫 About Me:
 Hello, I'm Djair! 👋<br>
