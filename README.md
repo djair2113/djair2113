@@ -29,7 +29,7 @@ Sou um **Engenheiro de Dados** apaixonado por Dados e Tecnologia. Com experiênc
 ## Conecte-se comigo
 
 [![Email Badge](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:djair2113@hotmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/djair2113)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/djair2113)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/djair2113)
 
 
