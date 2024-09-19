@@ -1,16 +1,4 @@
-<style>
-  body, html {
-    height: 100%;
-    margin: 0;
-  }
-  .full-screen-image {
-    height: 100vh; /* 100% da altura da viewport */
-    width: auto; /* Manter a proporção */
-    object-fit: cover; /* Cobre a área sem distorcer */
-  }
-</style>
-
-<img class="full-screen-image" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Header Image"/>
+<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Header Image" width="600"/>
 
 # 💫 About Me:
 Hello, I'm Djair! 👋<br>
