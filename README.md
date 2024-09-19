@@ -1,54 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apresentação Dinâmica</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            text-align: center;
-        }
-        .text {
-            font-size: 24px;
-            color: #333;
-            white-space: pre-wrap; /* Preserve quebras de linha */
-        }
-    </style>
-</head>
-<body>
+Olá, sou Djair, tenho 36 anos e sou do Brasil.
 
-<div class="text" id="dynamicText"></div>
-
-<script>
-    const text = `Olá, eu sou Djair! 👋
-
-Sou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.`;
-    
-    let index = 0;
-
-    function type() {
-        if (index < text.length) {
-            document.getElementById("dynamicText").innerHTML += text.charAt(index);
-            index++;
-            setTimeout(type, 50); // Ajusta a velocidade de digitação
-        }
-    }
-
-    type();
-</script>
-
-</body>
-</html>
-
-
+Sou um Estudante de Engenharia de Dados apaixonado por dados e tecnologia. Com conhecimento em diversas ferramentas e linguagens, busco constantemente expandir minhas habilidades e me manter atualizado nas últimas tendências do setor. Estou comprometido em transformar dados em insights valiosos que auxiliem na tomada de decisões.
 ## Sobre Mim
 
 - 🔭 Atualmente, trabalho com **Big Data** e uso ferramentas 🛠️ e Linguagem:
