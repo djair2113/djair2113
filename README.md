@@ -1,4 +1,5 @@
-<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Header Image" width="600"/>
+<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Header Image" height="300"/>
+
 
 # 💫 About Me:
 Hello, I'm Djair! 👋<br>
