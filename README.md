@@ -6,7 +6,6 @@
 # 💫 About Me:
 🌍 Location: Brazil<br>
 🎂 Age: 36 years old<br><br>
-🔹 Data Engineering and Systems Development student<br>
 🔹 Passionate about data and technology<br>
 🔹 Knowledge in various tools and languages<br>
 🔹 Constantly seeking to expand skills<br>
