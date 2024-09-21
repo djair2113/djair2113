@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFaGZVvbEfxGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721324084787?e=1732147200&v=beta&t=ppKO37m_7zgxEoQOmGdykqjCH9O4UpBc1zayewb4QK0" alt="Header Image" width="100%" height="300px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Djair!;I'm+studying+Data+Engineering+and+Systems+Development&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Djair!;I'm+studying;Data+Engineering+and+Systems+Development&size=40)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
