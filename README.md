@@ -66,6 +66,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/djair2113)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=djair2113&icon=5&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=djair2113&icon=5&color=1" alt="Contador de Visitantes">
+</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
