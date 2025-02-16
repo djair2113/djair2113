@@ -67,7 +67,7 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=djair2113&icon=5&color=1" alt="Contador de Visitantes">
+  <img src="https://visitcount.itsvg.in/api?id=djair2113&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
 
 
