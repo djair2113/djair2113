@@ -1,9 +1,4 @@
-<img 
-  src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80" 
-  alt="Paisagem bonita" 
-  style="width: 100%; height: 300px; object-fit: cover;"
->
-
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFaGZVvbEfxGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721324084787?e=1745452800&v=beta&t=uMqObC8VFKRK5Rt0XxVYjW03Jz_4lYaxJAWoJ-TeEMk" alt="Header Image" width="100%" height="300px">
 
 
 
