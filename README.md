@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQEGW0cR5Oy_Qg/profile-displayphoto-shrink_400_400/B4EZWVI3BJGwAk-/0/1741963883305?e=1757548800&v=beta&t=7Sxgkht0RwXxInmpf6ZDta4F6reF2pU2GMs7wEDx4b4" alt="Header Image" width="50%" height="300px">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEUk-AzyWpDbg/profile-displaybackgroundimage-shrink_350_1400/B4EZWVFOaFG0Ac-/0/1741962930894?e=1757548800&v=beta&t=3oplhgCgnjSymdXW9F1MMpsOUY7IkjbZmueFOfNxjyY" alt="Header Image" width="50%" height="300px">
 
 
 
@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 🌍 Location: Brazil<br>
-🎂 Age: 36 years old<br><br>
+🎂 Age: 37 years old<br><br>
 🔹 Passionate about data and technology<br>
 🔹 Knowledge in various tools and languages<br>
 🔹 Constantly seeking to expand skills<br>
